@@ -18,6 +18,6 @@ This repository provides `bash` scripts used for identification and quantificati
 
 ## References
 
-Moradi Marjaneh M, Beesley J, O’Mara TA, Mukhopadhyay P, Koufariotis LT, Kazakoff S, et al. Non-coding RNAs underlie genetic predisposition to breast cancer. *Genome Biol*. 2020. In press. 
+Moradi Marjaneh M, Beesley J, O’Mara TA, Mukhopadhyay P, Koufariotis LT, Kazakoff S, et al. Non-coding RNAs underlie genetic predisposition to breast cancer. ***Genome Biology***. 2020. In press. 
 
-Bartonicek N, Clark MB, Quek XC, Torpy JR, Pritchard AL, Maag JLV, et al. Intergenic disease-associated regions are abundant in novel transcripts. *Genome Biol*. 2017; 18:241.
+Bartonicek N, Clark MB, Quek XC, Torpy JR, Pritchard AL, Maag JLV, et al. Intergenic disease-associated regions are abundant in novel transcripts. ***Genome Biology***. 2017; 18:241.
