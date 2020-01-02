@@ -1,6 +1,6 @@
 # Identification and quantification of non-coding RNAs
 
-This repository provides `bash` scripts used in `Moradi Marjaneh et al. (*Genome Biology* 2020)` to identify and quantify ncRNAs including: 
+This repository provides `bash` scripts used in **Moradi Marjaneh et al. (*Genome Biology* 2020)** to identify and quantify ncRNAs including: 
 
 1. trimming the sequencing reads with `trim_galore`
 2. *de novo* assembly with `Trinity`
