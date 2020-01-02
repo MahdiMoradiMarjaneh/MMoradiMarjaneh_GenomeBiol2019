@@ -1,6 +1,6 @@
 # Identification and quantification of non-coding RNAs (Moradi Marjaneh et al., *Genome Biology* 2020)
 
-This repository provides bash scripts used for ncRNAs identification and quantification including: 
+This repository provides bash scripts used for identification and quantification of of ncRNAs including: 
 
 1. trimming the sequencing reads
 2. *de novo* assembly
