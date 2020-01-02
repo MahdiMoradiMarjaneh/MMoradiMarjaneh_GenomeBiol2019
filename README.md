@@ -15,3 +15,9 @@ This repository provides `bash` scripts used for identification and quantificati
 11. quantification (gene and isoform level) with `rsem-calculate-expression`
 12. making genome level bam files with `rsem-calculate-expression`
 13. exon level quantification with `samtools view` and `coverageBed`
+
+# References
+
+Moradi Marjaneh M, Beesley J, O’Mara TA, Mukhopadhyay P, Koufariotis LT, Kazakoff S, Hussein N, Fachal L, Bartonicek N, Hillman KM, Kaufmann S, Sivakumaran H, Smart CE, McCart Reed AE, Ferguson K, Saunus JM, Lakhani SR, Barnes DR, Antoniou AC, Dinger ME, Waddell N, Easton DF, Dunning AM, Chenevix-Trench G, Edwards SL, French JD. Non-coding RNAs underlie genetic predisposition to breast cancer. *Genome Biol*. 2020. In press. 
+
+Bartonicek N, Clark MB, Quek XC, Torpy JR, Pritchard AL, Maag JLV, et al. Intergenic disease-associated regions are abundant in novel transcripts. *Genome Biol*. 2017; 18:241.
