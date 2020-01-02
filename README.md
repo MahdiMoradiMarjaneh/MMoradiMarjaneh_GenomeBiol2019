@@ -1,17 +1,17 @@
 # Identification and quantification of non-coding RNAs (Moradi Marjaneh et al., *Genome Biology* 2020)
 
-This repository provides bash scripts used for identification and quantification of ncRNAs including: 
+This repository provides `bash` scripts used for identification and quantification of ncRNAs including: 
 
-1. trimming the sequencing reads
-2. *de novo* assembly
-3. mapping back the *de novo* assemblies against the hg19 reference genome
-4. merging assemblies
-5. indexing
-6. mapping the sequencing reads against the merged assembly
-7. filtering for paired mapped reads  
-8. sorting
-9. merging sorted bam files for each library
-10. indexing
-11. quantification (gene and isoform level)
-12. making genome level bam files
-13. exon level quantification
+1. trimming the sequencing reads with `trim_galore`
+2. *de novo* assembly with `Trinity`
+3. mapping back the *de novo* assemblies against hg19 reference genome with `gmap`
+4. merging assemblies with `cuffmerge`
+5. `STAR` indexing
+6. mapping the sequencing reads against the merged assembly with `STAR`
+7. filtering for paired mapped reads with `samtools view`
+8. sorting with `novosort`
+9. merging sorted bam files for each library with `samtools cat`
+10. indexing with `rsem-prepare-reference`
+11. quantification (gene and isoform level) with `rsem-calculate-expression`
+12. making genome level bam files with `rsem-calculate-expression`
+13. exon level quantification with `samtools view` and `coverageBed`
