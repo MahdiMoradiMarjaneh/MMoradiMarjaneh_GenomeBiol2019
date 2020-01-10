@@ -16,7 +16,7 @@ This repository provides `bash` scripts used in **Moradi Marjaneh et al. (*Genom
 12. making genome level bam files with `rsem-calculate-expression`
 13. exon level quantification with `samtools view` and `coverageBed`
 
-## Citation
+## References
 
 Moradi Marjaneh M, Beesley J, O’Mara TA, Mukhopadhyay P, Koufariotis LT, Kazakoff S, et al. Non-coding RNAs underlie genetic predisposition to breast cancer. ***Genome Biology***. 2020; 21(1):7. (PMID: 31910864)
 
